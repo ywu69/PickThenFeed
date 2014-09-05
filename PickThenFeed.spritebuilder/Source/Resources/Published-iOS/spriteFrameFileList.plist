@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>metadata</key>
+	<dict>
+		<key>version</key>
+		<integer>1</integer>
+	</dict>
+	<key>spriteFrameFiles</key>
+	<array>
+		<string>animation.plist</string>
+		<string>ccbResources.plist</string>
+		<string>countDownAnimation.plist</string>
+		<string>fishAnimation.plist</string>
+		<string>assets.plist</string>
+		<string>starAnimation.plist</string>
+	</array>
+</dict>
+</plist>

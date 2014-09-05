@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>assets/128px-Speech_balloon.svg.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1949, 643}, {57, 46}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{4, 3}, {57, 46}}</string>
+			<key>sourceSize</key>
+			<string>{64, 52}</string>
+		</dict>
+		<key>assets/Facebook_logo_(square).png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1291, 1565}, {200, 200}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {200, 200}}</string>
+			<key>sourceSize</key>
+			<string>{200, 200}</string>
+		</dict>
+		<key>assets/IT-11@4x.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{103, 1940}, {232, 40}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {232, 40}}</string>
+			<key>sourceSize</key>
+			<string>{232, 40}</string>
+		</dict>
+		<key>assets/T4@4x.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1949, 87}, {78, 78}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {78, 78}}</string>
+			<key>sourceSize</key>
+			<string>{78, 78}</string>
+		</dict>
+		<key>assets/T8@4x.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{103, 1982}, {40, 117}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {40, 117}}</string>
+			<key>sourceSize</key>
+			<string>{40, 117}</string>
+		</dict>
+		<key>assets/Tencent_QQ.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1875, 691}, {112, 128}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{8, 0}, {112, 128}}</string>
+			<key>sourceSize</key>
+			<string>{128, 128}</string>
+		</dict>
+		<key>assets/audio-158489_150.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1949, 489}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>assets/audio-158490_150.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1949, 566}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>assets/basic-background@4x.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1264, 1882}, {200, 135}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {200, 135}}</string>
+			<key>sourceSize</key>
+			<string>{200, 135}</string>
+		</dict>
+		<key>assets/button-152243_640.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1949, 167}, {320, 76}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 42}, {320, 76}}</string>
+			<key>sourceSize</key>
+			<string>{320, 160}</string>
+		</dict>
+		<key>assets/cloudy-sky-ip5@4x.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1379, 323}, {568, 320}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {568, 320}}</string>
+			<key>sourceSize</key>
+			<string>{568, 320}</string>
+		</dict>
+		<key>assets/fruit_banana_200@4x.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1949, 1}, {87, 84}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{6, 8}, {87, 84}}</string>
+			<key>sourceSize</key>
+			<string>{100, 100}</string>
+		</dict>
+		<key>assets/ftline_line_arrow_end.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1875, 828}, {384, 165}}</string>
+			<key>offset</key>
+			<string>{-1, -9}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{7, 127}, {384, 165}}</string>
+			<key>sourceSize</key>
+			<string>{400, 400}</string>
+		</dict>
+		<key>assets/gesture_7@4x.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1379, 645}, {494, 349}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {494, 349}}</string>
+			<key>sourceSize</key>
+			<string>{494, 349}</string>
+		</dict>
+		<key>assets/landscape-bg-ip5@4x.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1379, 1}, {568, 320}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {568, 320}}</string>
+			<key>sourceSize</key>
+			<string>{568, 320}</string>
+		</dict>
+		<key>assets/landscape-bg-ipadhd@4x.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1170}, {1024, 768}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {1024, 768}}</string>
+			<key>sourceSize</key>
+			<string>{1024, 768}</string>
+		</dict>
+		<key>assets/lemmling_Cartoon_acorn.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1861, 1214}, {150, 120}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {150, 120}}</string>
+			<key>sourceSize</key>
+			<string>{150, 120}</string>
+		</dict>
+		<key>assets/longblock.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2008, 643}, {183, 27}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {183, 27}}</string>
+			<key>sourceSize</key>
+			<string>{183, 27}</string>
+		</dict>
+		<key>assets/monkey@4x.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1141, 1882}, {148, 121}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {148, 121}}</string>
+			<key>sourceSize</key>
+			<string>{148, 121}</string>
+		</dict>
+		<key>assets/pumpkin.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1466, 1318}, {247, 245}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{5, 6}, {247, 245}}</string>
+			<key>sourceSize</key>
+			<string>{256, 256}</string>
+		</dict>
+		<key>assets/roofs-walls-04@4x.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1027, 1526}, {262, 354}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {262, 354}}</string>
+			<key>sourceSize</key>
+			<string>{262, 354}</string>
+		</dict>
+		<key>assets/roofs-walls-04@4x1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1027, 1170}, {262, 354}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {262, 354}}</string>
+			<key>sourceSize</key>
+			<string>{262, 354}</string>
+		</dict>
+		<key>assets/shark_by_ironfruit-d4ducm4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {1376, 1167}}</string>
+			<key>offset</key>
+			<string>{7, -4}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{17, 12}, {1376, 1167}}</string>
+			<key>sourceSize</key>
+			<string>{1397, 1183}</string>
+		</dict>
+		<key>assets/squirrel@4x.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1027, 1882}, {112, 149}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {112, 149}}</string>
+			<key>sourceSize</key>
+			<string>{112, 149}</string>
+		</dict>
+		<key>assets/twitter-2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1940}, {100, 100}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {100, 100}}</string>
+			<key>sourceSize</key>
+			<string>{100, 100}</string>
+		</dict>
+		<key>assets/wood-hd@4x.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1379, 996}, {480, 320}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {480, 320}}</string>
+			<key>sourceSize</key>
+			<string>{480, 320}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{2048, 2048}</string>
+		<key>textureFileName</key>
+		<string>assets.png</string>
+	</dict>
+</dict>
+</plist>
